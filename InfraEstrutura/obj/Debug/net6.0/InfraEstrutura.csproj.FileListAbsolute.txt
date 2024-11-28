@@ -1,0 +1,14 @@
+C:\Guilherme santos\CrudEntity\InfraEstrutura\bin\Debug\net6.0\InfraEstrutura.deps.json
+C:\Guilherme santos\CrudEntity\InfraEstrutura\bin\Debug\net6.0\InfraEstrutura.runtimeconfig.json
+C:\Guilherme santos\CrudEntity\InfraEstrutura\bin\Debug\net6.0\InfraEstrutura.dll
+C:\Guilherme santos\CrudEntity\InfraEstrutura\bin\Debug\net6.0\InfraEstrutura.pdb
+C:\Guilherme santos\CrudEntity\InfraEstrutura\obj\Debug\net6.0\InfraEstrutura.csproj.AssemblyReference.cache
+C:\Guilherme santos\CrudEntity\InfraEstrutura\obj\Debug\net6.0\InfraEstrutura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Guilherme santos\CrudEntity\InfraEstrutura\obj\Debug\net6.0\InfraEstrutura.AssemblyInfoInputs.cache
+C:\Guilherme santos\CrudEntity\InfraEstrutura\obj\Debug\net6.0\InfraEstrutura.AssemblyInfo.cs
+C:\Guilherme santos\CrudEntity\InfraEstrutura\obj\Debug\net6.0\InfraEstrutura.csproj.CoreCompileInputs.cache
+C:\Guilherme santos\CrudEntity\InfraEstrutura\obj\Debug\net6.0\InfraEstrutura.dll
+C:\Guilherme santos\CrudEntity\InfraEstrutura\obj\Debug\net6.0\refint\InfraEstrutura.dll
+C:\Guilherme santos\CrudEntity\InfraEstrutura\obj\Debug\net6.0\InfraEstrutura.pdb
+C:\Guilherme santos\CrudEntity\InfraEstrutura\obj\Debug\net6.0\InfraEstrutura.genruntimeconfig.cache
+C:\Guilherme santos\CrudEntity\InfraEstrutura\obj\Debug\net6.0\ref\InfraEstrutura.dll
